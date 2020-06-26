@@ -15,6 +15,10 @@ class lcl_main implementation.
   method run_report.
     ##TODO "veri çek ve rapor göster
 
+
+
+    ##TODO "Kodu AGD Etmeyi ogren!!!
+
   endmethod.
 
 endclass.
