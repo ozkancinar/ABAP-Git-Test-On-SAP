@@ -18,7 +18,7 @@ class lcl_main implementation.
 
 
     ##TODO "Kodu AGD Etmeyi ogren!!!
-
+    "okke
   endmethod.
 
 endclass.
